@@ -2,11 +2,19 @@ Aim:
 To create and initialize a Git repository.
 
 Introduction:
-Git is a distributed version control system used to track changes in files and manage projects.
+Git is a version control system used to track changes in files and manage projects.
 
-Commands Used:
-git --version – Checks the installed Git version.
-git init – Initializes a new Git repository.
-git status – Shows the current status of files.
-git add . – Adds files to the staging area.
-git commit -m "Initial commit" – Saves changes in the repository.
+Theory:
+A Git repository stores project files and their history. Git helps developers track changes, save different versions and collaborate on projects. GitHub is used to store and share repositories online.
+
+Procedure:
+
+Create a project folder.
+Open it in VS Code.
+Open the terminal.
+Initialize Git using git init.
+Add and commit the files.
+Upload the repository to GitHub.
+
+Result:
+Successfully created a Git repository and uploaded it to GitHub.

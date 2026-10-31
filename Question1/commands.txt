@@ -1,0 +1,8 @@
+git --version
+git init
+git status
+git add .
+git commit -m "Starting a Git Repository"
+git branch -M main
+git remote add origin <repository-url>
+git push -u origin main
